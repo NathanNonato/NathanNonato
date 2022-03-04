@@ -1,5 +1,12 @@
 ## Olá! Eu sou o Nathan Nonato.
 
+🔍 Estou em busca de oportunidades.
+
+📚 Escalando conhecimento em:
+* Cloud Computing (AWS) ☁️
+* Engenharia de dados (PySpark) 📈
+
+
 <div align="center">
   <a href="https://github.com/NathanNonato">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NathanNonato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
