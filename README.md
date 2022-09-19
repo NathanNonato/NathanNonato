@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Nathan Nonato.
 
-🔍 Estou em busca de oportunidades.
+Data Enginner ❤️
 
 📚 Escalando conhecimento em:
 * Cloud Computing (AWS) ☁️
-* Engenharia de dados (PySpark) 📈
+* Engenharia de dados (PySpark, Python) 📈
 
 
 <div align="center">
