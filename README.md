@@ -15,7 +15,7 @@ I am a passionate Data Engineer specializing in building scalable data pipelines
 ### 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,spark,pyspark,aws,sql,docker,airflow" />
+  <img src="https://skillicons.dev/icons?i=python,aws,docker" />
 </div>
 
 ### 🤝 Let's Connect!
