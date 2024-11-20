@@ -9,7 +9,6 @@ I am a passionate Data Engineer specializing in building scalable data pipelines
 - **Cloud Computing**: AWS (Amazon Web Services)
 - **Data Orchestration**: Apache Airflow
 - **Programming**: Python
-- **Database Management**: SQL, MySQL
 - **Containerization**: Docker
 
 ### 🛠 Tech Stack
